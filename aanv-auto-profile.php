@@ -2,10 +2,10 @@
 /* 
 Plugin Name: AANV Auto Profile
 Plugin URI: https://foxscarlett.com
-Description: For Art Association Napa Valley. Automatically creates an Artist Profile when a new member registers.
-Author: Fox Scarlett for West County Media
-Author URI: https://www.westcountymedia.com/
-Version: 0.1
+Description: For Art Association Napa Valley. Automatically creates an Artist Profile when a new member registers .
+Author: Fox Scarlett 
+Author URI: https://foxscarlett.com
+Version: 0.2
 License: GPL2
 */
 
